@@ -1,0 +1,7 @@
+@import "tailwindcss"; /* Replaces '@tailwind utilities' */
+
+@layer components {
+  .all-\\[unset\\] {
+    all: unset;
+  }
+}
