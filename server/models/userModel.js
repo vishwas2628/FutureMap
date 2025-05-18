@@ -29,7 +29,6 @@ const userSchema = new mongoose.Schema(
       country: { type: String, required: true },
       streetAddress: { type: String },
     },
-    // AIzaSyC-cH-p9Id1vFIoaXVpRZe7b-M7Cum4Ols
   },
   { timestamps: true }
 );
